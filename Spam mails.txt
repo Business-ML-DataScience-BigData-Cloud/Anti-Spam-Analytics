@@ -1,0 +1,18 @@
+Don't Read this one:
+
+🛡️ Project # 02: Anti-Spam Analytics (Powered by Machine Learning)
+🏷️ Classification Algorithm: Logistic Regression
+🕵️ Email Spam 🔴| Ham🟢 Detection
+
+1. Congratulations! You have been invited to Disneyland.
+2. You have received a 1 Million Award (True, my case only).
+3. Claim Your iPhone Ultra Pro Max (Genuine).
+4. Limited Time Offer – 200% Discount.
+5. How to get rich in 1 day (Secret Method).
+6. Aliens Chose You to Host Their Party – Apply Now.
+7. Diet plan! Eat 1 Banana and Instantly Speak 5 Languages.
+
+
+📂 GitHub Repo: https://lnkd.in/d-xyKhjw
+
+#SpamDetection #MachineLearning #ArtificialIntelligence #Python #DataScience #CyberSecurity
